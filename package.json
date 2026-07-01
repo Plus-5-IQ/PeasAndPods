@@ -1,0 +1,9 @@
+{
+  "name": "peas-and-pods-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Peas & Pods marketing site with a PodBot chat assistant powered by Gemini via a Vercel serverless function.",
+  "engines": {
+    "node": ">=18"
+  }
+}
